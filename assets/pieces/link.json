@@ -1,3 +1,58 @@
 {
-  
+  "chess_assets": {
+    "set_1": {
+      "black_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bp.png",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/br.png",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bn.png",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bb.png",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bq.png",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bk.png"
+      },
+      "white_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wp.png",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wr.png",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wn.png",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wb.png",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wq.png",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wk.png"
+      }
+    },
+    "set_2": {
+      "black_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bp.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/br.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bn.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bb.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bq.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bk.svg"
+      },
+      "white_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wp.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wr.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wn.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wb.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wq.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wk.svg"
+      }
+    },
+    "set_3": {
+      "black_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bp.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/br.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bn.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bb.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bq.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bk.svg"
+      },
+      "white_pieces": {
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wp.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wr.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wn.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wb.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wq.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wk.svg"
+      }
+    }
+  }
 }
