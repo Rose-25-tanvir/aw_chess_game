@@ -1,63 +1,63 @@
 {
   "chess_assets": {
     "set_1": {
-      "name":"Modern",
-      "price":"s, 500",
+      "name": "Modern",
+      "price": "s, 500",
       "black_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bp.png",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/br.png",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bn.png",
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/pb.png",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/rb.png",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/nb.png",
         "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bb.png",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bq.png",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/qb.png",
         "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/kb.png"
       },
       "white_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wp.png",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wr.png",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wn.png",
-        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wb.png",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/wq.png",
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/pw.png",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/rw.png",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/nw.png",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bw.png",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/qw.png",
         "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/kw.png"
       }
     },
     "set_2": {
-      "name":"Galss",
-      "price":"s, 1000",
+      "name": "Galss",
+      "price": "s, 1000",
       "black_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bp.svg",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/br.svg",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bn.svg",
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/pb.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/rb.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/nb.svg",
         "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bb.svg",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bq.svg",
-        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bk.svg"
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/qb.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/kb.svg"
       },
       "white_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wp.svg",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wr.svg",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wn.svg",
-        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wb.svg",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wq.svg",
-        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/wk.svg"
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/pw.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/rw.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/nw.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bw.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/qw.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/kw.svg"
       }
     },
     "set_3": {
-      "name":"Unic",
-      "price":"s, 1000",
+      "name": "Unic",
+      "price": "s, 1000",
       "black_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bp.svg",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/br.svg",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bn.svg",
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/pb.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/rb.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/nb.svg",
         "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bb.svg",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bq.svg",
-        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bk.svg"
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/qb.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/kb.svg"
       },
       "white_pieces": {
-        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wp.svg",
-        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wr.svg",
-        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wn.svg",
-        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wb.svg",
-        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wq.svg",
-        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/wk.svg"
+        "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/pw.svg",
+        "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/rw.svg",
+        "knight": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/nw.svg",
+        "bishop": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bw.svg",
+        "queen": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/qw.svg",
+        "king": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/kw.svg"
       }
     }
   }
