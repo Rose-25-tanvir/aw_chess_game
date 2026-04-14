@@ -1,6 +1,8 @@
 {
   "chess_assets": {
     "set_1": {
+      "name":"Modern",
+      "price":"s, 500",
       "black_pieces": {
         "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/bp.png",
         "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_1/br.png",
@@ -19,6 +21,8 @@
       }
     },
     "set_2": {
+      "name":"Galss",
+      "price":"s, 1000",
       "black_pieces": {
         "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/bp.svg",
         "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_2/br.svg",
@@ -37,6 +41,8 @@
       }
     },
     "set_3": {
+      "name":"Unic",
+      "price":"s, 1000",
       "black_pieces": {
         "pawn": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/bp.svg",
         "rook": "https://github.com/Rose-25-tanvir/aw_chess/raw/main/assets/piece/photo/set_3/br.svg",
