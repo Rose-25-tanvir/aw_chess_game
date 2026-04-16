@@ -1,0 +1,20 @@
+name: Notify App on Update
+on:
+  push:
+    paths:
+      - 'user/users/**' # যেকোনো ইউজারের ডেটা চেঞ্জ হলে ট্রিগার হবে
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Pusher Event
+        run: |
+          curl -X POST https://api-ap1.pusher.com/apps/2093086/events \
+          -H "Content-Type: application/json" \
+          -d '{
+            "name": "data-updated",
+            "channels": ["school-channel-xyz19045@#addfg"],
+            "data": "{\"updated\": true}"
+          }' \
+          --user "73792010743d71d3db60:ff90022fb08fc2633137"
