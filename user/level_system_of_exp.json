@@ -193,10 +193,6 @@
     },
     {
         "level": 49,
-        "exp_required_to_next_level": 116486
-    },
-    {
-        "level": 50,
         "exp_required_to_next_level": 130000
     }
 ]
