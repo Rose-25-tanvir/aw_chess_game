@@ -1,0 +1,202 @@
+[
+    {
+        "level": 1,
+        "exp_required_to_next_level": 600
+    },
+    {
+        "level": 2,
+        "exp_required_to_next_level": 670
+    },
+    {
+        "level": 3,
+        "exp_required_to_next_level": 747
+    },
+    {
+        "level": 4,
+        "exp_required_to_next_level": 834
+    },
+    {
+        "level": 5,
+        "exp_required_to_next_level": 931
+    },
+    {
+        "level": 6,
+        "exp_required_to_next_level": 1039
+    },
+    {
+        "level": 7,
+        "exp_required_to_next_level": 1159
+    },
+    {
+        "level": 8,
+        "exp_required_to_next_level": 1294
+    },
+    {
+        "level": 9,
+        "exp_required_to_next_level": 1444
+    },
+    {
+        "level": 10,
+        "exp_required_to_next_level": 1611
+    },
+    {
+        "level": 11,
+        "exp_required_to_next_level": 1798
+    },
+    {
+        "level": 12,
+        "exp_required_to_next_level": 2007
+    },
+    {
+        "level": 13,
+        "exp_required_to_next_level": 2240
+    },
+    {
+        "level": 14,
+        "exp_required_to_next_level": 2499
+    },
+    {
+        "level": 15,
+        "exp_required_to_next_level": 2789
+    },
+    {
+        "level": 16,
+        "exp_required_to_next_level": 3113
+    },
+    {
+        "level": 17,
+        "exp_required_to_next_level": 3474
+    },
+    {
+        "level": 18,
+        "exp_required_to_next_level": 3877
+    },
+    {
+        "level": 19,
+        "exp_required_to_next_level": 4327
+    },
+    {
+        "level": 20,
+        "exp_required_to_next_level": 4829
+    },
+    {
+        "level": 21,
+        "exp_required_to_next_level": 5389
+    },
+    {
+        "level": 22,
+        "exp_required_to_next_level": 6015
+    },
+    {
+        "level": 23,
+        "exp_required_to_next_level": 6712
+    },
+    {
+        "level": 24,
+        "exp_required_to_next_level": 7491
+    },
+    {
+        "level": 25,
+        "exp_required_to_next_level": 8360
+    },
+    {
+        "level": 26,
+        "exp_required_to_next_level": 9330
+    },
+    {
+        "level": 27,
+        "exp_required_to_next_level": 10412
+    },
+    {
+        "level": 28,
+        "exp_required_to_next_level": 11620
+    },
+    {
+        "level": 29,
+        "exp_required_to_next_level": 12968
+    },
+    {
+        "level": 30,
+        "exp_required_to_next_level": 14473
+    },
+    {
+        "level": 31,
+        "exp_required_to_next_level": 16152
+    },
+    {
+        "level": 32,
+        "exp_required_to_next_level": 18026
+    },
+    {
+        "level": 33,
+        "exp_required_to_next_level": 20117
+    },
+    {
+        "level": 34,
+        "exp_required_to_next_level": 22451
+    },
+    {
+        "level": 35,
+        "exp_required_to_next_level": 25056
+    },
+    {
+        "level": 36,
+        "exp_required_to_next_level": 27962
+    },
+    {
+        "level": 37,
+        "exp_required_to_next_level": 31206
+    },
+    {
+        "level": 38,
+        "exp_required_to_next_level": 34827
+    },
+    {
+        "level": 39,
+        "exp_required_to_next_level": 38867
+    },
+    {
+        "level": 40,
+        "exp_required_to_next_level": 43376
+    },
+    {
+        "level": 41,
+        "exp_required_to_next_level": 48408
+    },
+    {
+        "level": 42,
+        "exp_required_to_next_level": 54024
+    },
+    {
+        "level": 43,
+        "exp_required_to_next_level": 60292
+    },
+    {
+        "level": 44,
+        "exp_required_to_next_level": 67287
+    },
+    {
+        "level": 45,
+        "exp_required_to_next_level": 75093
+    },
+    {
+        "level": 46,
+        "exp_required_to_next_level": 83804
+    },
+    {
+        "level": 47,
+        "exp_required_to_next_level": 93527
+    },
+    {
+        "level": 48,
+        "exp_required_to_next_level": 104377
+    },
+    {
+        "level": 49,
+        "exp_required_to_next_level": 116486
+    },
+    {
+        "level": 50,
+        "exp_required_to_next_level": 130000
+    }
+]
