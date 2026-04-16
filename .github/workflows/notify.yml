@@ -2,7 +2,7 @@ name: Notify App on Update
 on:
   push:
     paths:
-      - 'user/users/**' # যেকোনো ইউজারের ডেটা চেঞ্জ হলে ট্রিগার হবে
+      - 'user/users/**' # যেকোনো ইউজারের প্রোফাইল ফাইল চেঞ্জ হলে ট্রিগার হবে
 
 jobs:
   notify:
