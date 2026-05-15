@@ -22,6 +22,11 @@
       "url" :"https://i.ibb.co.com/FbNyxZ0z/a-2.png",
       "price": "s,100",
       "name":"testv2"
+    },
+    "3":{
+      "url":"https://i.ibb.co.com/m5LLtdq9/a-3.jpg",
+      "price":"s, 100",
+      "name":"test v 3"
     }
   }
 }
