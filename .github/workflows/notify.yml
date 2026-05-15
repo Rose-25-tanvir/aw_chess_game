@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'user/users/**' # যেকোনো ইউজারের প্রোফাইল ফাইল চেঞ্জ হলে ট্রিগার হবে
+      - 'assets/**'
 
 jobs:
   notify:
