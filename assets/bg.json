@@ -1,5 +1,13 @@
 {
-  "lobby":"https://i.ibb.co.com/tMR4kk4M/5.jpg",
-  "game":"https://i.ibb.co.com/tMR4kk4M/5.jpg",
-  "full_game":"https://i.ibb.co.com/tMR4kk4M/5.jpg"
+  "lobby":{
+    "url":"https://i.ibb.co.com/tMR4kk4M/5.jpg",
+    "music":""
+  },
+  "game":{
+    "url":"https://i.ibb.co.com/tMR4kk4M/5.jpg",
+    "music":""
+  },
+  "full_game":{
+    "url":"https://i.ibb.co.com/tMR4kk4M/5.jpg",
+    "music":""
 }
